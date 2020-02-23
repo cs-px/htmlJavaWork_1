@@ -1,0 +1,14 @@
+body {
+	background-image: url(./picture_1.jpg);
+}
+nav {
+	background-color: #01a7da;
+}
+footer.page-footer {
+    background-color: #01a7da;
+    width: 100%;
+	height: 60px;
+	position: absolute; 
+	bottom: -100px;
+	left: 0px;
+}
